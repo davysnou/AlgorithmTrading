@@ -1,1 +1,4 @@
 # AlgorithmTrading
+
+Alpaca
+Quandl
